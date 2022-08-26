@@ -1,4 +1,4 @@
-# CW3_potion_giver - Telegram Bot build for the text game Chat Wars
+# CW3_potion_giver - Telegram Bot build fortext game Chat Wars3
 
 **Hosted on**: GCP (Google Cloud computing)
 
