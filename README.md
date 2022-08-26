@@ -1,6 +1,6 @@
-# CW3_potion_giver - Telegram Bot build fortext game Chat Wars3
+# CW3_potion_giver - Telegram Bot build for text game Chat Wars3
 
-**Hosted on**: GCP (Google Cloud computing)
+**Hosted on**: GCP (Google Cloud Computing)
 
 **Purpose:** This bot has been built to withdraw potions from the guild stock based on trigger commands sent to the bot by the user.
 
