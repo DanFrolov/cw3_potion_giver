@@ -14,10 +14,7 @@ session_name = "cw3_giver"
 client = TelegramClient(session_name, api_id, api_hash)
 
 non_bmp_map = dict.fromkeys(range(0x10000, sys.maxunicode + 1), 0xfffd)
-
-d = datetime.now()
-print(time.strftime('%H:%M'))
-    
+  
 chat = -1001380922754
 #chat = -465743828
 
