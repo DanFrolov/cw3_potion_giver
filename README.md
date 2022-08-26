@@ -1,5 +1,5 @@
 # cw3_potion_giver
-#Telegram Bot build for the text game Chat Wars
+# Telegram Bot build for the text game Chat Wars
 
 ## Purpose: This bot has been built to withdraw potions from the guild stock based on trigger commands sent to the bot by the user.
 
@@ -8,6 +8,9 @@
 ### Main commands ( have to be send into the CW3 bot directly)
 
 **/rage**  - withdraws a set of rage drinks  (vial, potion, bottle) by player request
+
 **/peace** - withdraws a set of peace drinks (vial, potion, bottle)
+
 **/morph** - withdraws a set of morph drinks (vial, potion, bottle)
+
 **/mana**  - withdraws a set of mana drinks  (vial, potion, bottle)
